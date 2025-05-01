@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for downloading this site!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
+Owner Name: AkilaJoseph
+Template URL: https://github.com/AkilaJoseph/Akila_portfolio/edit/main/iPortfolio/Readme.txt
+Author: akila.com
 License: https://bootstrapmade.com/license/
